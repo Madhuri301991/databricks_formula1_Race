@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- MAGIC %sql
+-- MAGIC select * from f1_raw.circuits;
