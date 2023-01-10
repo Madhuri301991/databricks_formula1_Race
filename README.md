@@ -1,5 +1,5 @@
 # databricks_formula1_race
-- Working with formula1 racing datasets in Azure Databricks
+- Worked with formula1 racing datasets in Azure Databricks
 - Created a resource group
 - Created a databricks workspace 
 - Created all-purpose cluster 
@@ -12,7 +12,7 @@
 - worked incremental load for files results, pitstops, laptimes, qualifying for dates 2021-03-21, 2021-03-28, 2021-04-18 
 - Converted parquet files to delta files 
 - Created Azure Data Factory
-- Created three pipelines for ingest, transform and process. Process pipeline execute ingestion and transform pipeline 
+- Created three pipelines for ingest, transform and process. Process pipeline executed ingestion and transform pipeline 
 - Created trigger that executes three pipeline at a specified date and time 
 - Connected Databricks and PowerBI 
 - Integrated Databricks and github and pushed notebook files from Databricks to github 
