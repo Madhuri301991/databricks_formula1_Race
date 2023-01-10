@@ -18,13 +18,13 @@
 - Integrated Databricks and github and pushed notebook files from Databricks to github 
 ---------------------------------------------------------------------------------------
 DATABASES:
-1]demo database   : 
+- 1]demo database   : 
 pv_race_results, race_results_ext_py, race_results_ext_sql, race_results_python
-2]f1_demo database :
+- 2]f1_demo database :
 drivers_convert_to_delta, drivers_merge, drivers_txn, results_external, results_managed, results_partitioned.
-3]f1_presentation database:
+- 3]f1_presentation database:
 calculated_race_results, constructor_standings, driver_standings, race_results
-4]f1_processed database:
+- 4]f1_processed database:
 circuits, constructors, drivers, laptimes, pitstops, qualifying, races,results 
-5]f1_raw database:
+- 5]f1_raw database:
 circuits, constructors, drivers, laptimes, pitstops, qualifying, races,results 
