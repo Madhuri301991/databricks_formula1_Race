@@ -1,15 +1,15 @@
 # databricks_formula1_race
--Working with formula1 racing datasets in Azure Databricks
--Created a resource group
--Created a databricks workspace 
--Created all-purpose cluster 
--Created notebook files in formula1 folder in workspace
--Created a data lake storage Gen2
--Created a key vault
--Created three blob containers raw, processed and presentation in data lake
--Mounted data lake containers raw, processed and presentation in databricks
--worked full load for files circuits, races, constructors, drivers
--worked incremental load for files results, pitstops, laptimes, qualifying for dates 2021-03-21, 2021-03-28, 2021-04-18 
+- Working with formula1 racing datasets in Azure Databricks
+- Created a resource group
+- Created a databricks workspace 
+- Created all-purpose cluster 
+- Created notebook files in formula1 folder in workspace
+- Created a data lake storage Gen2
+- Created a key vault
+- Created three blob containers raw, processed and presentation in data lake
+- Mounted data lake containers raw, processed and presentation in databricks
+- worked full load for files circuits, races, constructors, drivers
+- worked incremental load for files results, pitstops, laptimes, qualifying for dates 2021-03-21, 2021-03-28, 2021-04-18 
 - Converted parquet files to delta files 
 - Created Azure Data Factory
 - Created three pipelines for ingest, transform and process. Process pipeline execute ingestion and transform pipeline 
