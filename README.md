@@ -12,7 +12,8 @@
 - worked incremental load for files results, pitstops, laptimes, qualifying for dates 2021-03-21, 2021-03-28, 2021-04-18 
 - Converted parquet files to delta files 
 - Created Azure Data Factory
-- Created three pipelines for ingest, transform and process. Process pipeline executed ingestion and transform pipeline 
+- Created three pipelines for ingest, transform and process. Process pipeline executed ingestion and transform pipeline.
+- Run these pipeline in Azure Data Factory.
 - Created trigger that executes three pipeline at a specified date and time 
 - Connected Databricks and PowerBI 
 - Integrated Databricks and github and pushed notebook files from Databricks to github 
