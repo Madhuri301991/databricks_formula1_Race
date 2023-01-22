@@ -1,4 +1,5 @@
 # databricks_formula1_race
+- Data analysis of the formula1 motor racing sports dataset using PySpark & spark SQL in Azure Databricks. Azure data lake for storage. Executed pipelines & triggers in Azure Data Factory. Visualization in PowerBI.
 - Worked with formula1 racing datasets in Azure Databricks
 - Created a resource group
 - Created a databricks workspace 
