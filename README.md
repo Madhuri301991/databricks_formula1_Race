@@ -31,4 +31,4 @@ circuits, constructors, drivers, laptimes, pitstops, qualifying, races,results
 - 5]f1_raw database:
 circuits, constructors, drivers, laptimes, pitstops, qualifying, races,results 
 ------------------------------------------------------------------------------------------
-- http://ergast.com/mrd/     --> third party API to get the data for formula1 sports racing
+- http://ergast.com/mrd/     --> third party API to get the data for formula1 sports racing. It has data for all races from 1950 onwards
